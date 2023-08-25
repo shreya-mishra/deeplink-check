@@ -11,11 +11,11 @@ function App() {
         </p>
         <a
           className="App-link"
-          href= "kjkk://jsjd"
+          href= "com.rdsapp://deeplink"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn Reactsdasdasdas
         </a>
       </header>
     </div>
