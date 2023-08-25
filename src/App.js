@@ -11,7 +11,7 @@ function App() {
         </p>
         <a
           className="App-link"
-          href= "intent://app://deeplink/#Intent;package=com.rdsapp;scheme=https;end;"
+          href= "app://deeplink"
           target="_blank"
           rel="noopener noreferrer"
         >
