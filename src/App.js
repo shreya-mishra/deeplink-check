@@ -11,7 +11,7 @@ function App() {
         </p>
         <a
           className="App-link"
-          href= "app://deeplink"
+          href= "kjkk://jsjd"
           target="_blank"
           rel="noopener noreferrer"
         >
