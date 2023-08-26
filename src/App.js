@@ -11,7 +11,7 @@ function App() {
         </p>
         <a
           className="App-link"
-          href= "intent://https://deeplink-check.netlify.app/#Intent;package=com.awesomeproject;scheme=https;end;"
+          href= "intent://https://deeplink-check.netlify.app/#Intent;package=com.rdsapp;scheme=https;end;"
           target="_blank"
           rel="noopener noreferrer"
         >
